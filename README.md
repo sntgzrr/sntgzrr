@@ -14,6 +14,19 @@
 - :nerd_face: I love `learn new things and improve my programming skills`.
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/iconsi=git&perline=14" />
+  </a>
+</p>
+</div>
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
