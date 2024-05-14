@@ -22,6 +22,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,go,html,css,bootstrap,angular,docker,hibernate,maven,aws,idea,postgres,postman,selenium" />
   </a>
+</p>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
   </a>
