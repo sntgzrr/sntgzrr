@@ -15,6 +15,8 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Skills
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,go,spring,angular,html,css,bootstrap,docker,git,github,bitbucket,hibernate,maven,aws,idea,postgres,postman,selenium" />
