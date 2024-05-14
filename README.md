@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,go,html,css,bootstrap,angular,docker,hibernate,maven,aws,idea,postgres,postman,selenium" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
   </a>
