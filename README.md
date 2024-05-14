@@ -17,11 +17,16 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Skills
 <br>
+<div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,spring,angular,html,css,bootstrap,docker,git,github,bitbucket,hibernate,maven,aws,idea,postgres,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,html,css,bootstrap,angular,docker,hibernate,maven,aws,idea,postgres,postman,selenium" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
   </a>
 </p>
+</div>
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
