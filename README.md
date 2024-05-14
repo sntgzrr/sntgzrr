@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,hibernate,rabbitmq,selenium,aws,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=maven,npm,hibernate,rabbitmq,selenium,aws,idea,vscode" />
   </a>
 </p>
 <p align="center">
