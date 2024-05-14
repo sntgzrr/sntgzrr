@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center"> Hi there, I'm Santiago 👋 </h1>
+</div>
 
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
