@@ -4,7 +4,16 @@
 <img src="https://i.ibb.co/p6D49Gg/Blue-And-Green-Professional-Technology-Linked-In-Banner.png">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br><br>
 
+- :school: I am a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
+- :trophy: Winner `Hewlett-Packard Company challenge` in linear programming.
+- :technologist: I love programming.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Backend Development` and `Frontend Development` at Digital House.
+- :nerd_face: I love `learn new things and improve my programming skills`.
+- :thinking: I’m currently open for a new `job opportunity`.
+<br>
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
