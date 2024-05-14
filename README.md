@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,npm,hibernate,rabbitmq,selenium,aws,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=maven,npm,hibernate,rabbitmq,selenium,aws" />
   </a>
 </p>
 <p align="center">
@@ -36,6 +36,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
   </a>
 </p>
 </div>
