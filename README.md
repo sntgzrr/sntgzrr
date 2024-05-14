@@ -15,18 +15,11 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/iconsi=git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-</div>
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
