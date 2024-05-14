@@ -6,9 +6,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
 
-- :school: I'm a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
-- :trophy: Winner `Hewlett-Packard Company challenge` in linear programming.
-- :technologist: I love programming.
+- :pencil2: I'm a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
+- :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
+- :fire: I love web programming, videogames and music.
 - :computer: Mainly, I'm m a backend programmer with `Java` technology (SpringBoot) but I have frontend skills with Angular.
 - :student: I'm currently learning `Backend Development` and `Frontend Development` at Digital House.
 - :nerd_face: I love `learn new things and improve my programming skills`.
