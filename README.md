@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center"> Hey there, I'm Santiago! 👋 </h1>
 </div>
+<img src="https://i.ibb.co/MPNBNZS/Studio-Shodwe.png">
 
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
