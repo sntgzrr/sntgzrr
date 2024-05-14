@@ -20,7 +20,17 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,html,css,bootstrap,angular,docker,hibernate,maven,aws,idea,postgres,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,html,css,bootstrap,angular,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=hibernate,rabbitmq,selenium,maven,aws,idea,vscode" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,postman,mysql,mongodb" />
   </a>
 </p>
 <p align="center">
