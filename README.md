@@ -9,7 +9,7 @@
 - :school: I am a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
 - :trophy: Winner `Hewlett-Packard Company challenge` in linear programming.
 - :technologist: I love programming.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a backend programmer with `Java` technology.
 - :student: I’m currently learning `Backend Development` and `Frontend Development` at Digital House.
 - :nerd_face: I love `learn new things and improve my programming skills`.
 - :thinking: I’m currently open for a new `job opportunity`.
