@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/p6D49Gg/Blue-And-Green-Professional-Technology-Linked-In-Banner.png">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<br><br>
+<br>
 
 - :school: I'm a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
 - :trophy: Winner `Hewlett-Packard Company challenge` in linear programming.
