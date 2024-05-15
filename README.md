@@ -30,7 +30,7 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,ts,angular,html,css,bootstrap,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,py,ts,angular,html,css,bootstrap,docker" />
   </a>
 </p>
 <p align="center">
