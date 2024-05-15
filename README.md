@@ -9,7 +9,7 @@
 - :pencil2: I'm a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
 - :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
 - :fire: I love web programming, videogames and music.
-- :computer: Mainly, I'm m a backend programmer with `Java` technology (SpringBoot) and Go but I have frontend skills with Angular.
+- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` but I have frontend skills with `Angular`.
 - :student: I'm currently learning `Backend Development` and `Frontend Development` at Digital House.
 - :nerd_face: I love `learn new things and improve my programming skills`.
 - :thinking: I’m currently open for a new `job opportunity`.
