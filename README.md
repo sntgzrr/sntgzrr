@@ -53,9 +53,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntgzrr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgzrr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
 <!--
 **sntgzrr/sntgzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
