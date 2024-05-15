@@ -15,6 +15,16 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> GitHub Analytics
+<br>
+
+<p align="center">
+<a href="https://github.com/sntgzrr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sntgzrr&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntgzrr&layout=compact&langs_count=10&theme=dark"/>
+</a>
+</p>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Skills
 <br>
 <div>
@@ -44,13 +54,3 @@
   </a>
 </p>
 </div>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> GitHub Analytics
-<br>
-
-<p align="center">
-<a href="https://github.com/sntgzrr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sntgzrr&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntgzrr&layout=compact&langs_count=10&theme=dark"/>
-</a>
-</p>
