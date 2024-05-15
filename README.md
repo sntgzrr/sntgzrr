@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hey there, I'm Santiago! 👋 </h1>
+  <h1 align="center"> Hello there, I'm Santiago! 👋 </h1>
 </div>
 <img src="https://i.ibb.co/p6D49Gg/Blue-And-Green-Professional-Technology-Linked-In-Banner.png">
 
