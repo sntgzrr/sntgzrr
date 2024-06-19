@@ -1,16 +1,16 @@
 <div align="center">
   <h1 align="center"> Hello there, I'm Santiago! 👋 </h1>
 </div>
-<img src="https://i.ibb.co/p6D49Gg/Blue-And-Green-Professional-Technology-Linked-In-Banner.png">
+<img src="https://i.ibb.co/CJ1Kz2g/Blue-And-Green-Professional-Technology-Linked-In-Banner-1.png">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
 
-- :pencil2: I'm a `Junior` backend developer, student of systems engineering at Universidad Libre and Digital House.
+- :pencil2: I'm a `Full Stack Developer`, student of engineering at Universidad Libre.
 - :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
 - :fire: I love web programming, videogames and music.
-- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` but I have frontend skills with `Angular`.
-- :student: I'm currently learning `Backend Development` and `Frontend Development` at Digital House.
+- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular`.
+- :student: I'm currently a `Back End Specialist` for the CTD membership of Digital House, Mercado Libre and Globant.
 - :nerd_face: I love `learn new things and improve my programming skills`.
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
