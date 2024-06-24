@@ -30,7 +30,8 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,py,js,ts,angular,html,css,bootstrap,docker" />
+    <h1>Front End Technologies</h1>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,vite,npm" />
   </a>
 </p>
 <p align="center">
