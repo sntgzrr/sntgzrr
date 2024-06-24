@@ -30,23 +30,26 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <h1>Front End Technologies</h1>
+    <h3>Front End Technologies</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,vite,npm" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,npm,hibernate,rabbitmq,selenium,aws" />
+    <h3>Back End Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring,go,maven,hibernate,rabbitmq,docker,kubernetes" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,postman,mysql,mongodb" />
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+    <h3>Dev tools, testing, infrastructure and more</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,selenium,aws,vscode,idea" />
   </a>
 </p>
   <p align="center">
