@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h3>Back End Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=java,spring,go,maven,hibernate,rabbitmq,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,maven,hibernate,rabbitmq" />
   </a>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h3>Dev tools, testing, infrastructure and more</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,selenium,aws,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,kubernetes,postman,selenium,aws,vscode,idea" />
   </a>
 </p>
 </div>
