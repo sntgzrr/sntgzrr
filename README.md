@@ -9,7 +9,7 @@
 - :pencil2: I'm a `Full Stack Developer`, student of engineering at Universidad Libre.
 - :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
 - :fire: I love web programming, videogames and music.
-- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular`.
+- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular` and `React`.
 - :student: I'm currently a `Back End Specialist` for the CTD membership of Digital House, Mercado Libre and Globant.
 - :nerd_face: I love `learn new things and improve my programming skills`.
 - :thinking: I’m currently open for a new `job opportunity`.
