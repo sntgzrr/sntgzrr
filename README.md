@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
 
-- :pencil2: I'm a `Full Stack Developer`, student of engineering at Universidad Libre.
+- :pencil2: I'm a `Full Stack Developer`, graduate of the Universidad Libre.
 - :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
 - :fire: I love web programming, videogames and music.
 - :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular` and `React`.
