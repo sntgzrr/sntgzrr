@@ -12,7 +12,6 @@
 - :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular` and `React`.
 - :student: I'm currently a `Back End Specialist` for the CTD membership of Digital House, Mercado Libre and Globant.
 - :nerd_face: I love `learn new things and improve my programming skills`.
-- :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> GitHub Analytics
