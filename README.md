@@ -3,17 +3,6 @@
 </div>
 <img src="https://i.ibb.co/CJ1Kz2g/Blue-And-Green-Professional-Technology-Linked-In-Banner-1.png">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<br>
-
-- :pencil2: I'm a `Full Stack Developer`, graduate of the Universidad Libre.
-- :tada: Winner `Hewlett-Packard Company challenge` in linear programming.
-- :fire: I love web programming, videogames and music.
-- :computer: Mainly, I'm m a backend programmer with `Java` technology `(SpringBoot)` and `Go` with frontend skills with `Angular` and `React`.
-- :student: I'm currently a `Back End Specialist` for the CTD membership of Digital House, Mercado Libre and Globant.
-- :nerd_face: I love `learn new things and improve my programming skills`.
-<br>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> GitHub Analytics
 <br>
 
